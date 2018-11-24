@@ -1,0 +1,13 @@
+*.log
+vendor
+/.htaccess
+storage
+/.env
+/.DS_Store
+.idea
+.user.ini
+/php.ini
+SQL
+customLogs
+public/uploads
+public/product_list.csv
